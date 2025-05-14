@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subbuY-9
-- 👀 I’m interested in coding languages like python,c,and java...
-- 🌱 I’m currently learning angular tabs
+- 👀 I’m interested in coding languages like  java, html, css, no sql...
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on mnc companies
 - 📫 How to reach me 
 - 😄 Pronouns: he him
